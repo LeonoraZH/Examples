@@ -1,9 +1,9 @@
-﻿int distance = 10000;
-int friendSpeed1 = 1;
-int friendSpeed2 = 2;
-int dogSpeed = 5;
+﻿double distance = 10000;
+double friendSpeed1 = 1;
+double friendSpeed2 = 2;
+double dogSpeed = 5;
 int count = 0;
-int time = 0;
+double time = 0;
 
 string x = "к 1 другу";
 string y = "к 2 другу";
